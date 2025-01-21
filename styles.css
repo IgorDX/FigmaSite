@@ -4,9 +4,7 @@
     font-family: 'DM Sans';
     box-sizing: border-box;
 }
-.cart-info__details{
-    padding: 10px;
-}
+
 .courses,
 .courses-solution{
     display: flex;
