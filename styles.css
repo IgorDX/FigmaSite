@@ -4,11 +4,6 @@
     font-family: 'DM Sans';
     box-sizing: border-box;
 }
-
-.cart-info__details{
-    padding: 0px;
-}
-
 .courses,
 .courses-solution{
     display: flex;
