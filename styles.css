@@ -4,6 +4,9 @@
     font-family: 'DM Sans';
     box-sizing: border-box;
 }
+.hello-world{
+    padding: 10000px;
+}
 .courses,
 .courses-solution{
     display: flex;
