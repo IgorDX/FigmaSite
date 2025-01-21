@@ -4,9 +4,11 @@
     font-family: 'DM Sans';
     box-sizing: border-box;
 }
-.hello-world{
-    padding: 10000px;
+
+.cart-info__details{
+    padding: 0px;
 }
+
 .courses,
 .courses-solution{
     display: flex;
